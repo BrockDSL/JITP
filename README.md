@@ -75,3 +75,6 @@ Associate article with proper issue
 Once all articles for an issue are added put an `x` in the spreadsheet `progress.csv` in column **C**.
 
 
+
+[Video of Phases 3 & 4 in action](https://brocku-my.sharepoint.com/:v:/g/personal/tribaric_brocku_ca/EW5OrrMGscBBtMuCHih3AssBJfUPq5Vh9WgX7NQgL8QMAg?e=WDBKxk)
+
