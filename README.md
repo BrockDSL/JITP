@@ -32,4 +32,46 @@ Create back issues in OJS
 
 Create submissions and attach to different issues
 
-TBD
+1. Start at: https://journals.library.brocku.ca/index.php/jitp/submissions **New Submission**
+2. **1. Start** click all checkboxes in submission requirements
+3. Make sure **Submit As** is to `Journal Editor`.  Select Checkbox next to "Yes I agree..."
+4. **Save and continue** 
+5. **2. Upload Submission** Select PDF of next article for issue. Eg. `02.pdf`
+6. What kind of file is this? Click `Article Text`. 
+7. **Save and continue**
+8. **3. Enter Metatdata**
+9. Copy / Paste all the information into the article description: `Title` and `Abstract`
+10. **Add Contributor**
+11. Add `Given Name` & `Family Name` from PDF. You'll need to google to find the  `Country` for this person. The `Email` should be on the last page of the PDF.
+12. **Contributor's Role** Should be Author
+13. Select both checkboxes for "Principle contact" & "Include in"
+14. **Save**
+15. Reorder **List of Contributors** so authors are first, not your account.
+16. **Save and continue**
+17. **4. Confirmation** Click **Finish Submission**
+
+
+
+## Phase 4 ##
+
+Associate article with proper issue
+
+1. Starting at: https://journals.library.brocku.ca/index.php/jitp/submissions
+2. **View** Submission.
+3. **Accept and Skip Review**
+4. Select `Do not send an email notification` and click **Next: Select Files fo Copyediting**
+6. Select attached PDF. and click **Record Editorial Decision**
+8. **Send to Production**
+9. Select `Do not send an email notification` and click **Next: Select Files for Production**
+10. Select attached PDF and click **Record Editorial Decision**
+11. **Schedule for Publication**
+12. On **Publication** tab navigate to **Galleys** then **Add galley** 
+13. **Galley Label** is `PDF`. Click **Save**
+14. **1. Upload File** Upload the same PDF file. eg. `02.pdf`
+15. Click through to step **3 . Confirm** and click **Complete**
+16. **Issue** add pages numbers for article in **Pages**
+16. **Schedule For Publication** then choose the right issue for the article. **Save**
+
+Once all articles for an issue are added put an `x` in the spreadsheet `progress.csv` in column **C**.
+
+
