@@ -13,7 +13,7 @@ Goal is to have each PDF file moved into a folder split into multiple PDFs based
 3. Open PDF and use **Print to PDF** but restrict to pages of each article
 4. Save article files along patter of `01.pdf` , `02.pdf` etc
 5. Take a screen capture of the title page and save it as `cover_26.png` in that same folder
-5. Put an `x` in the spreadsheet `progress.csv` in column **B** when issue is complete
+5. Put an `x` in the spreadsheet `progress.csv` in column **Articles Added** when issue is complete
 
 ## Phase 2
 
@@ -26,6 +26,8 @@ Create back issues in OJS
 3. Add Cover image to **Cover Image**
 <img src="new_issue.png" alt="new_issue.png" style="zoom:50%;" />
 4. Hit save to finish
+5. Put an `x` in the spreadsheet `progress.csv` in column **Cover Added** when issue is complete
+
 
 
 ## Phase 3 ##
@@ -58,6 +60,7 @@ Associate article with proper issue
 
 1. Starting at: https://journals.library.brocku.ca/index.php/jitp/submissions
 2. **View** Submission.
+3. Ensure that all of the metadata (abstract, keywords, author details) match the PDF File, edit as necessary
 3. **Accept and Skip Review**
 4. Select `Do not send an email notification` and click **Next: Select Files fo Copyediting**
 6. Select attached PDF. and click **Record Editorial Decision**
@@ -72,9 +75,16 @@ Associate article with proper issue
 16. **Issue** add pages numbers for article in **Pages**
 16. **Schedule For Publication** then choose the right issue for the article. **Save**
 
-Once all articles for an issue are added put an `x` in the spreadsheet `progress.csv` in column **C**.
-
-
+Once all articles for an issue are added put an `x` in the spreadsheet `progress.csv` in column **Issue staged**.
 
 [Video of Phases 3 & 4 in action](https://brocku-my.sharepoint.com/:v:/g/personal/tribaric_brocku_ca/EW5OrrMGscBBtMuCHih3AssBJfUPq5Vh9WgX7NQgL8QMAg?e=WDBKxk)
+
+## Phase 5 ##
+
+Once a completed issue is staged it will to officially be published. 
+
+1. ???
+2. ???
+
+Once the issue has been offically published put an `x` in the spreadsheet `progress.csv` in column **Issue published**.
 
