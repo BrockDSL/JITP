@@ -81,10 +81,13 @@ Once all articles for an issue are added put an `x` in the spreadsheet `progress
 
 ## Phase 5 ##
 
-Once a completed issue is staged it will to officially be published. 
+Once a completed issue is staged it will need be officially published. 
 
-1. ???
-2. ???
+1. Start at list of [issues](https://journals.library.brocku.ca/index.php/jitp/manageIssues) click drop down arrow for next issue click on **Preview** New window with staged issue is shown. Double check to make sure PDFs and page numbers are in order
+2. Return to drop down menu and **Publish Issue**
+3. Deselect `Send an email abou this to all registered users`
+4. Hit Ok. 
+5. Last step is to make the newest issue the **Current** issue. (Ie. not the archive backlog copy but the 2020 issue) Navigate to [back issues](https://journals.library.brocku.ca/index.php/jitp/manageIssues#back) page. Drop down arrow next to Vol 26 (2020). Click **Current Issue*
 
 Once the issue has been offically published put an `x` in the spreadsheet `progress.csv` in column **Issue published**.
 
