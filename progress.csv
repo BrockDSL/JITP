@@ -15,11 +15,11 @@
 "jitp_v07-2_2001.pdf	",X,X,,,
 "jitp_v08_2002.pdf	",X,X,,,
 "jitp_v09_2003.pdf	",X,X,,,
-"jitp_v10_2004.pdf	",X,X,,,
+"jitp_v10_2004.pdf	",X,X,X,X,X
 "jitp_v11_2005.pdf	",X,X,X,X,X
 "jitp_v12_2006.pdf	",,X,,,
-"jitp_v13_2007.pdf	",,X,,,
-"jitp_v14_2008.pdf	",,X,,,
+"jitp_v13_2007.pdf	",,X,X,X,X
+"jitp_v14_2008.pdf	",,X,X,X,X
 "jitp_v15_2009.pdf	",X,X,X,X,X
 "jitp_v16_2010.pdf	",X,X,X,X,X
 "jitp_v17_2011.pdf	",X,X,X,X,X
@@ -32,4 +32,3 @@
 "jitp_v24_2018.pdf	",X,X,X,X,X*
 "jitp_v25_2019.pdf	",X,X,X,X,X
 jitp_v26_2020,X,X,X,X,X
-
