@@ -34,6 +34,7 @@ Create back issues in OJS
 
 Create submissions and attach to different issues
 
+1. Navigate to Workflows [https://journals.library.brocku.ca/index.php/jitp/management/settings/workflow](https://journals.library.brocku.ca/index.php/jitp/management/settings/workflow) and deselect **Disable Submissions**, then **Save**
 1. Start at: https://journals.library.brocku.ca/index.php/jitp/submissions **New Submission**
 2. **1. Start** click all checkboxes in submission requirements
 3. Make sure **Submit As** is to `Journal Editor`.  Select Checkbox next to "Yes I agree..."
@@ -51,6 +52,7 @@ Create submissions and attach to different issues
 15. Reorder **List of Contributors** so authors are first, not your account.
 16. **Save and continue**
 17. **4. Confirmation** Click **Finish Submission**
+18. After last submission has been completed head back to Workflow [https://journals.library.brocku.ca/index.php/jitp/management/settings/workflow](https://journals.library.brocku.ca/index.php/jitp/management/settings/workflow) enable **Disable Submissions** and **Save**.
 
 
 
