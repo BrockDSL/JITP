@@ -49,10 +49,11 @@ Create submissions and attach to different issues
 12. **Contributor's Role** Should be Author
 13. Select both checkboxes for "Principle contact" & "Include in"
 14. **Save**
-15. Reorder **List of Contributors** so authors are first, not your account.
-16. **Save and continue**
-17. **4. Confirmation** Click **Finish Submission**
-18. After last submission has been completed head back to Workflow [https://journals.library.brocku.ca/index.php/jitp/management/settings/workflow](https://journals.library.brocku.ca/index.php/jitp/management/settings/workflow) enable **Disable Submissions** and **Save**.
+15. Reorder **List of Contributors** so authors are first
+16. Delete you account from the list of contributors
+17. **Save and continue**
+18. **4. Confirmation** Click **Finish Submission**
+19. After last submission has been completed head back to Workflow [https://journals.library.brocku.ca/index.php/jitp/management/settings/workflow](https://journals.library.brocku.ca/index.php/jitp/management/settings/workflow) enable **Disable Submissions** and **Save**.
 
 
 
